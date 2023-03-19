@@ -1,12 +1,12 @@
 {
-  "name": "v14music-emirhan",
+  "name": "Malibu",
   "version": "1.0.0",
-  "description": "",
+  "description": "Malibu Müzik Botu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Emirhan Sarac",
+  "author": "Mehmet Ali",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
