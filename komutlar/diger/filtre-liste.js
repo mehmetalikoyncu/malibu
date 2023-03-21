@@ -21,5 +21,3 @@ module.exports = {
             msg.edit({ content: ' ', embeds: [embed] })
         }
 }; 
-
-// github.com/EmirhanSarac/discord-v14-muzik-botu - discord.gg/codare - youtube.com/EmirhanSarac
