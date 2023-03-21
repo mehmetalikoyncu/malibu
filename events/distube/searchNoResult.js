@@ -7,5 +7,3 @@ module.exports = async (client, query, queue) => {
 
     queue.textChannel.send({ embeds: [embed] })
 }
-
-// github.com/EmirhanSarac/discord-v14-muzik-botu - discord.gg/codare
