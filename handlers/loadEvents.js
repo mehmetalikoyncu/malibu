@@ -15,5 +15,3 @@ module.exports = async (client, message) => {
       await delay(4000);
       console.log(chalk.greenBright(`[BİLGİ] Global Events Başarıyla Yüklendi!`));
 };
-
-// github.com/EmirhanSarac/discord-v14-muzik-botu - discord.gg/codare - youtube.com/EmirhanSarac
