@@ -37,5 +37,3 @@ module.exports = async (client, message) => {
         return message.channel.send({ embeds: [embed] });
     }
 }
-
-// github.com/EmirhanSarac/discord-v14-muzik-botu - discord.gg/codare - youtube.com/EmirhanSarac
