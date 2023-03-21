@@ -15,5 +15,3 @@ module.exports = async (client) => {
         await delay(4000);
         console.log(chalk.greenBright(`[BİLGİ] Komut Dosyaları Yüklendi!`));
 };
-
-// github.com/EmirhanSarac/discord-v14-muzik-botu - discord.gg/codare - youtube.com/EmirhanSarac
